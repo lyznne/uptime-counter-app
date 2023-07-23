@@ -1,5 +1,8 @@
 from flask import  Flask, render_template
+from flask_frozen import Freezer 
+
 app = Flask(__name__)
+freezer = Freezer(app)
 
 # route
 @app.route('/')
@@ -8,5 +11,9 @@ def index():
 
 
 if __name__=="__main__":
-    app.run(debug=True)
+    # To run the development server locally, use:
+    # app.run(debug=True)
+    
+    # For Flask Frozen, use the following instead:
+    freezer.freeze()
 
