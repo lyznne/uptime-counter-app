@@ -27,7 +27,7 @@ git clone https://github.com/lyznne/uptime-counter-app.git
 
 ## Demo
 
-For a live demo, you can visit the following link: [Uptime Counter and Clock Demo]([link-to-live-demo](https://lyznne.github.io/uptime-counter-app/))
+For a live demo, you can visit the following link: [Uptime Counter and Clock Demo]([website](https://lyznne.github.io/uptime-counter-app/)
 
 ## Credits
 
