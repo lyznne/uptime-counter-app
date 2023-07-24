@@ -20,14 +20,14 @@ This is a simple web application that includes an uptime counter and a clock. Th
 
 1. Clone the Repository: Clone this repository to your local machine using the following command:
 ```
-git clone 
+git clone https://github.com/lyznne/uptime-counter-app.git
 ```
 
 
 
 ## Demo
 
-For a live demo, you can visit the following link: [Uptime Counter and Clock Demo](link-to-live-demo)
+For a live demo, you can visit the following link: [Uptime Counter and Clock Demo]([link-to-live-demo](https://lyznne.github.io/uptime-counter-app/))
 
 ## Credits
 
