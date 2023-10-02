@@ -29,6 +29,8 @@ git clone https://github.com/lyznne/uptime-counter-app.git
 
 For a live demo, you can visit the following link: [Uptime Counter and Clock Demo]([website](https://lyznne.github.io/uptime-counter-app/)
 
+check out [website](https://a-timely.netfliy.app)
+
 ## Credits
 
 - The application design and implementation were created by [lyznne](https://www.github.com/lyznne).
